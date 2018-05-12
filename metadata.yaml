@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26324'
     url: http://www.gutenberg.org/2009/agents/26324
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24222#The-Story-of-Eclipses
 gutenberg_bookshelf:
 - Astronomy
 - Children's Instructional Books
